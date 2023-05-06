@@ -1,0 +1,4 @@
+*.out
+./operating-systems-three-easy-pieces.pdf
+./exec.dSYM/
+./thread.dSYM/
